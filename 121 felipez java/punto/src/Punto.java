@@ -1,6 +1,6 @@
 public class Punto {
-    private float x;
-    private float y;
+    public float x;
+    public float y;
 
     public Punto(float x, float y) {
         this.x = x;
